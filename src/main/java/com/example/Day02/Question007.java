@@ -1,6 +1,4 @@
-package com.example.SecondDay;
-
-import java.util.Arrays;
+package com.example.Day02;
 
 public class Question007 {
     public static String solution(String[] arr) {

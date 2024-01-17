@@ -1,4 +1,4 @@
-package com.example.SecondDay;
+package com.example.Day02;
 
 public class Question006 {
 

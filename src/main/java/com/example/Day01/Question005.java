@@ -1,4 +1,4 @@
-package com.example.FirstDay;
+package com.example.Day01;
 
 import java.util.ArrayList;
 import java.util.List;
