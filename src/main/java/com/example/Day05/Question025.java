@@ -51,7 +51,7 @@ public class Question025 {
     }
     /**
      *  다른 사람들의 문제풀이
-     *  always.fill 이라는 함수를 사용해서 기준이 되는 숫자보다 큰 숫자가 없다면 -1을 자동을 넣도록 함
+     *  Arrays.fill 이라는 함수를 사용해서 기준이 되는 숫자보다 큰 숫자가 없다면 -1을 자동을 넣도록 함
      *  Math.min을 사용하여 그때그때 가장 작은 숫자를 담아 넣었다. 더 간결해짐
      */
     public int[] solution2(int[] arr, int[][] queries) {
